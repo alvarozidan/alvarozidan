@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Backend and Database**
 - 🌱 I’m currently learning **php and Laravel**
 - ✨ I’m a **students 11th grade**
-- ⚡ Fun fact:** I also interest with AI Development and IoT**
+- ⚡ Fun fact: **I also interest with AI Development and IoT**
 
 ##### Skills
 <p align="center">
