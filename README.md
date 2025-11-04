@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Alvaro Zidane
+![varo Zidane](img/metahan_Header.png)
 <!--
 **alvarozidan/alvarozidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning **php and Laravel**
+- ✨ I’m a **students 11th grade**
